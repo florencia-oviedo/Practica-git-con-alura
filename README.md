@@ -1,2 +1,2 @@
-# alura-git
-Listas de cursos para controlar con Git 
+# Prácticas de git con el curso de Alura Latam
+
